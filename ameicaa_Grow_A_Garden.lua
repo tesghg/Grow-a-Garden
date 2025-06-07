@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Discontinued\nFollow me for new releases\n https://v3rm.net/members/ameicaa.53920/\nhttps://scriptblox.com/u/ameicaa")
+game.Players.LocalPlayer:Kick("Discontinued")
